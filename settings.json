@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "bot",
+        "username": "SMP_Bot",
         "password": "",
         "type": ""
     },
 
     "server":{
-        "ip": "127.0.0.1",
-        "port": 25565,
-        "version": "1.17.1"
+        "ip": "247BedrockSMP.aternos.me",
+        "port": 44979,
+        "version": "1.20.1"
     },
 
     "position":{
@@ -35,10 +35,10 @@
             "repeat-delay": 60,
 
             "messages": [
-                "I'm a regular player ", 
-                "My owner is urFate_ ", 
+                "I'm a Bot  ", 
+                "My owner is Aljur Pogoy", 
                 "I want be alone ", 
-                "Visit my GitHub page! (urFate/Afk-Bot)"
+                "I was coded by Node.js And JavaScript "
             ]
         },
 
